@@ -1,4 +1,4 @@
-/* 
+
 * {
     background: var(--color-slate-300, #D5E1EF);
     display: flex;
@@ -63,7 +63,7 @@ h1 {
     align-self: stretch;
     margin: 0px;
 }
-*/
+
 p {
     color: var(--color-slate-500, #68778D);
     text-align: center;
